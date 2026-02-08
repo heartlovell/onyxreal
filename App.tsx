@@ -158,21 +158,21 @@ const App: React.FC = () => {
         return (
           <div className="flex flex-col gap-6 animate-in fade-in slide-in-from-right duration-500">
             <div className="p-8 border border-blue-500/30 bg-black/40 rounded-lg backdrop-blur-sm relative overflow-hidden min-h-[500px]">
-              <h2 className="text-4xl font-bold text-blue-400 mb-4 tracking-tighter uppercase">Web Engineering (10X)</h2>
+              <h2 className="text-4xl font-bold text-blue-400 mb-4 tracking-tighter uppercase">Web Engineering</h2>
               <p className="text-white/80 text-sm leading-relaxed mb-6 font-mono">
                 A website isn't just a design—it's your best salesperson. If your site is slow, confusing, or non-existent, you are throwing away leads. Onyx builds customer magnets optimized for 10x engagement.
               </p>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                 <div className="p-4 border border-white/5 bg-white/5 rounded hover:bg-blue-500/10 transition-colors">
-                  <h3 className="text-blue-400 font-bold text-sm mb-1 uppercase tracking-tighter">Conversion Mastery</h3>
-                  <p className="text-white/30 text-[10px]">We map user behavior to turn passive visitors into active buyers. 10x is the standard.</p>
+                  <h3 className="text-blue-400 font-bold text-sm mb-1 uppercase tracking-tighter">Every Click Should Lead Somewhere</h3>
+                  <p className="text-white/30 text-[10px]">We use behavioral data to create sites that convert.</p>
                 </div>
                 <div className="p-4 border border-white/5 bg-white/5 rounded hover:bg-blue-500/10 transition-colors">
-                  <h3 className="text-blue-400 font-bold text-sm mb-1 uppercase tracking-tighter">Speed Optimization</h3>
-                  <p className="text-white/30 text-[10px]">Every 100ms of lag costs 1% in sales. We build lightning-fast stacks that dominate SEO.</p>
+                  <h3 className="text-blue-400 font-bold text-sm mb-1 uppercase tracking-tighter">Outdated Websites Lose Customers</h3>
+                  <p className="text-white/30 text-[10px]">We build modern, high-performance sites that inspire trust and drive action.</p>
                 </div>
                 <div className="col-span-full p-6 border border-blue-500/20 bg-blue-500/5 rounded text-center">
-                  <div className="text-4xl font-bold text-white mb-1">10X ROI</div>
+                  <div className="text-4xl font-bold text-white mb-1">Results You Can Measure</div>
                   <div className="text-[10px] text-blue-400 uppercase tracking-[0.5em] font-bold">Digital Growth Engine</div>
                 </div>
               </div>
@@ -237,7 +237,7 @@ const App: React.FC = () => {
                <div className="absolute bottom-6 left-6 z-20">
                  <h2 className="text-3xl md:text-5xl font-bold tracking-tighter text-white mb-2 leading-tight uppercase">
                    Problems <span className="text-emerald-500">Solved.</span> <br/>
-                   Customers <span className="text-emerald-500">10x.</span>
+                   Convert more visitors <span className="text-emerald-500">into revenue.</span>
                  </h2>
                  <p className="text-white/50 max-w-sm text-xs leading-relaxed font-mono uppercase tracking-wider">
                    Engineering excellence in cybersecurity, IT forensics, and high-conversion web growth.
