@@ -75,7 +75,6 @@ const App: React.FC = () => {
     if (cleanCmd.includes('admin') || cleanCmd.includes('contact') || cleanCmd.includes('onyx_admin')) {
       addLog('--- SECURE CONTACT CHANNEL ---', 'system');
       addLog('OPERATOR: Cristian Acevedo', 'system');
-      addLog('DIRECT LINE: 651-717-5556', 'system');
       addLog('SECURE MAIL: cristian007@acevedoonyx.net', 'system');
       return;
     }
@@ -202,7 +201,6 @@ const App: React.FC = () => {
                   <h3 className="text-xs font-bold text-white uppercase tracking-widest mb-3">Direct Secure Channel</h3>
                   <div className="font-mono text-xs space-y-2">
                     <p className="text-white/60">EMAIL: <span className="text-red-400">cristian007@acevedoonyx.net</span></p>
-                    <p className="text-white/60">PHONE: <span className="text-red-400">651-717-5556</span></p>
                     <p className="text-white/40 italic mt-2">Operator: Cristian Acevedo</p>
                   </div>
                 </div>
@@ -273,10 +271,6 @@ const App: React.FC = () => {
                   <div className="flex justify-between border-b border-white/5 pb-1">
                      <span className="text-white/30 italic uppercase text-[10px]">Operator</span>
                      <span className="font-bold text-white">Cristian Acevedo</span>
-                  </div>
-                  <div className="flex justify-between border-b border-white/5 pb-1">
-                     <span className="text-white/30 italic uppercase text-[10px]">Comms</span>
-                     <span className="text-emerald-400">651-717-5556</span>
                   </div>
                   <div className="flex justify-between">
                      <span className="text-white/30 italic uppercase text-[10px]">Secure Email</span>
